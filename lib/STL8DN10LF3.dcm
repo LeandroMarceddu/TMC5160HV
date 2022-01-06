@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STL8DN10LF3
+D MOSFET Dual N-Ch 100V 7.8A 25mOhm STripFET III Automotive-grade dual N-channel 100 V, 25 m typ., 7.8 A STripFET F3 Power MOSFET in a PowerFLAT 5x6 DI
+K
+F https://www.mouser.de/datasheet/2/389/dm00051677-1797639.pdf
+$ENDCMP
+#
+#End Doc Library

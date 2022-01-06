@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMC5160-TA
+D TRINAMIC - TMC5160-TA - MOTOR DRIVER, STEPPER, TQFP-48
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-40/47761.pdf
+$ENDCMP
+#
+#End Doc Library

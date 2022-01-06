@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "TMC5160-TA")(type "Legacy")(uri "${KIPRJMOD}/lib/TMC5160-TA.lib")(options "")(descr ""))
+  (lib (name "825433-8")(type "Legacy")(uri "${KIPRJMOD}/lib/825433-8.lib")(options "")(descr ""))
+  (lib (name "825433-4")(type "Legacy")(uri "${KIPRJMOD}/lib/825433-4.lib")(options "")(descr ""))
+  (lib (name "STL8DN10LF3")(type "Legacy")(uri "${KIPRJMOD}/lib/STL8DN10LF3.lib")(options "")(descr ""))
+)
